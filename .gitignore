@@ -66,3 +66,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#Og hva prosjektet anbefaler å ignorere
+cmake-build-*/
+.idea/
